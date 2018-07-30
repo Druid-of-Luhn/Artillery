@@ -2,7 +2,7 @@
 
 Artillery is a two-player game built in Processing for the Video Games module at the University of St&nbsp;Andrews.
 
-![A screenshot of Artillery, where player 1 has fired at player 2 over a pile of blocks in the centre.](https://wb33.host.cs.st-andrews.ac.uk/artillery.png "Artillery screenshot")
+![A screenshot of Artillery, where player 1 has fired at player 2 over a pile of blocks in the centre.](artillery.png "Artillery screenshot")
 
 ## Controls
 
